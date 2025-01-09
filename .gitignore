@@ -1,0 +1,33 @@
+# Compilação do Rust
+/target/
+
+# Logs e debugging
+*.log
+
+# Configurações locais do editor/IDE
+**/.idea/
+**/.vscode/
+*.swp
+
+# Arquivos de metadados do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+*.old
+
+# Caches do Cargo
+/.cargo/
+
+# Configurações específicas de desenvolvimento
+.cargo/config.toml
+.cargo/config
+
+# Testes de benchmark
+*.profdata
+
+# Outras configurações específicas
+*.rs.bk

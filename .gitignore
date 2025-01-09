@@ -1,5 +1,6 @@
 # Compilação do Rust
 /target/
+*target
 
 # Logs e debugging
 *.log
